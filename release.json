@@ -1,7 +1,7 @@
 {
   "name": "MA Calendar",
-  "version": "1.0.30",
-  "download_url": "https://github.com/hyveli/ma-calendar-dist/releases/download/v1.0.30/ma-calendar.zip",
+  "version": "1.0.31",
+  "download_url": "https://github.com/hyveli/ma-calendar-dist/releases/download/v1.0.31/ma-calendar.zip",
   "requires": "6.0",
   "tested": "6.7",
   "last_updated": "2026-03-10",
